@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hello! I'm Akranium ![](https://komarev.com/ghpvc/?username=Akranium)
 
-<!--
-**Akranium/Akranium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👤 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Aspiring backend developer (work in progress), huge Python fan!
+<br>
+✉️ You can reach me via email at akranium@proton.me
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Akranium&hide_border=true)](https://git.io/streak-stats)
+---
+
+## 📫 Contacts
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akranium)
+
+---
