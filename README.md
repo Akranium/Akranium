@@ -29,5 +29,6 @@
 ## 📫 Contacts
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akranium)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&&logo=discord&logoColor=white)](https://discordapp.com/users/693490867792642129)
 
 ---
