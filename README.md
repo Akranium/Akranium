@@ -29,6 +29,6 @@
 ## 📫 Contacts
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akranium)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&&logo=discord&logoColor=white)](https://discordapp.com/users/693490867792642129)
-
+[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=fff)](mailto:akranium@proton.me)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/693490867792642129)
 ---
